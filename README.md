@@ -1,0 +1,1 @@
+# neosolarized.nvim
